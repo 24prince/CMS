@@ -27,12 +27,6 @@ The **College Management System** is a **Java Swing-based desktop application** 
 
 ---
 
-## 🔧 Installation & Setup  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/yourusername/CollegeManagementSystem.git
-cd CollegeManagementSystem
 
 🎯 Future Enhancements
 ✅ Implement Login System with Role-based Access (Admin, Faculty, Student).
@@ -46,3 +40,7 @@ Contributions are welcome! Feel free to submit a pull request.
 This project is licensed under the MIT License.
 
 ⭐ If you like this project, don't forget to star the repo! 🚀
+
+
+
+

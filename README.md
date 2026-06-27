@@ -23,11 +23,6 @@ The **College Management System** is a **Java Swing-based desktop application** 
 
 ---
 
-## 📸 Screenshots  
-
----
-
-
 🎯 Future Enhancements
 ✅ Implement Login System with Role-based Access (Admin, Faculty, Student).
 ✅ Add Export Reports to PDF/Excel feature.
